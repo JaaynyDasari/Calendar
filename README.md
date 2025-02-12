@@ -17,9 +17,9 @@ This is a C program that generates a calendar for the given year and displays im
    ```bash
    gcc filename.c -o filename
 4. Run the Program:
-5. ```bash
-   ./filename
-6.Enter the year when prompted.
+   ```bash
+      ./filename
+5.Enter the year when prompted.
 
 Example Output:
 
