@@ -1,20 +1,25 @@
-Description
-This is a C program that generates a calendar for the given year and displays important national festivals such as Republic Day, Independence Day and Gandhi Jayanti. 
+# C Calendar Program
 
-Features:
-Displays the full calendar for any year. 
-Automatically adjusts for leap years.
-Highlights national festivals.
-Simple and easy-to-use command-line-interface.
+## Description
+This is a C program that generates a calendar for the given year and displays important national festivals such as Republic Day, Independence Day, and Gandhi Jayanti.
 
-How to Compile and Run:
-1.Save the code in a text file and save it with the '.c' extrnsion. 
-2.Open the Command Prompt.
-3.Use GCC to compile the program 
-Command - gcc filename.c -o filename 
-4.Run the Program
-Command - ./filename
-5.Enter the year.
+## Features:
+✔️ Displays the full calendar for any year.  
+✔️ Automatically adjusts for leap years.  
+✔️ Highlights national festivals.  
+✔️ Simple and easy-to-use command-line interface.  
+
+## How to Compile and Run:
+
+1. Save the code in a text file and save it with the `.c` extension.  
+2. Open the **Command Prompt**.  
+3. Use GCC to compile the program:  
+   ```bash
+   gcc filename.c -o filename
+4. Run the Program:
+5. ```bash
+   ./filename
+6.Enter the year when prompted.
 
 Example Output:
 
@@ -32,3 +37,4 @@ Calendar for the Year 2025
   26th Republic Day
   15th Independence Day
   2nd Gandhi Jayanti
+
